@@ -1,10 +1,9 @@
   body {
     
-    background-image: url(../img/fondo5.jpg);
+    background: url(fondo5.jpg) no-repeat center top;
     background-size: 100% 100%;
     background-attachment: fixed;
-    
-  }
+    }
   
   .login-box {
     width: 320px;
